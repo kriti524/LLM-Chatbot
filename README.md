@@ -49,7 +49,7 @@ ollama run llama2
 
 Run Streamlit app:
 
-streamlit run localama.py  
+streamlit run main.py  
 
 ## Environment Variables
 
