@@ -37,7 +37,7 @@ The application uses LangChain’s ChatPromptTemplate for structured prompt desi
 
 ## Installation
 
-git clone https://github.com/kriti524/LLM-Chatbot.git
+git clone https://github.com/kriti524/LLM-Chatbot  
 cd your-repo  
 pip install -r requirements.txt  
 
